@@ -21,7 +21,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=CraneSimulator)](https://github.com/TheMoltenDolphin/CraneSimulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=Skol_Assistant)](https://github.com/TheMoltenDolphin/Skol_Assistant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=Monument-Info)](https://github.com/TheMoltenDolphin/Monument-Info)
+
+# My team's projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VARkit&repo=MindRift)](https://github.com/VARkit/MindRift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VARkit&repo=SkiingSimulator)](https://github.com/VARkit/SkiingSimulator)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMoltenDolphin&layout=compact)](https://github.com/TheMoltenDolphin/github-readme-stats)
 
