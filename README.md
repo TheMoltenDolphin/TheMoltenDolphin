@@ -6,3 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheMoltenDolphin)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=1000&color=3199d9ff&random=false&width=435&lines=It%E2%80%99s+never+too+late+to+learn)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMoltenDolphin&layout=compact)](https://github.com/TheMoltenDolphin/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=CraneSimulator)](https://github.com/TheMoltenDolphin/CraneSimulator)
