@@ -18,6 +18,7 @@
 :white_check_mark:Create any other types of programs with Unity <br><br>
 :white_check_mark:UI/UX design <br><br>
 :white_check_mark:Edit videos/photos <br><br>
+:white_check_mark:Work with Json <br><br>
 
 ## What I want to learn
 :black_square_button:Work with MySQL <br><br>
