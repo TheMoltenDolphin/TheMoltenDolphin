@@ -27,5 +27,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheMoltenDolphin&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMoltenDolphin&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMoltenDolphin&theme=solarized_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMoltenDolphin&layout=compact)](https://github.com/TheMoltenDolphin/github-readme-stats)
