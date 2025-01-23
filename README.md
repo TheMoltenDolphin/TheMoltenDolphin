@@ -9,23 +9,6 @@
 [![VARkit](https://img.shields.io/badge/My_team-VARkit-214d26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VARkit?tab=repositories&q=&type=&language=python&sort=)
 [![Telegram](https://img.shields.io/badge/Telegram-279dda?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheMoltenDolphin?tab=repositories&q=&type=&language=python&sort=)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=30&pause=1000&color=3199d9ff&random=false&width=435&lines=It%E2%80%99s+never+too+late+to+learn)](https://git.io/typing-svg)
-
-
-# What I can
-:white_check_mark:Create a VR application <br><br>
-:white_check_mark:Create an AR application <br><br>
-:white_check_mark:Create any other types of programs with Unity <br><br>
-:white_check_mark:UI/UX design <br><br>
-:white_check_mark:Edit videos/photos <br><br>
-:white_check_mark:Work with Json <br><br>
-
-## What I want to learn
-:black_square_button:Work with MySQL <br><br>
-:black_square_button:Work with Redis <br><br>
-:black_square_button:Work with NumPy / other python libraries <br><br>
-
 # My projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=CraneSimulator)](https://github.com/TheMoltenDolphin/CraneSimulator)
