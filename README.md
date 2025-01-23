@@ -10,7 +10,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-279dda?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheMoltenDolphin?tab=repositories&q=&type=&language=python&sort=)
 
 # My projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=PyLabs)](https://github.com/TheMoltenDolphin/PyLabs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=C-labs)](https://github.com/TheMoltenDolphin/C-Labs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=CraneSimulator)](https://github.com/TheMoltenDolphin/CraneSimulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=Skol_Assistant)](https://github.com/TheMoltenDolphin/Skol_Assistant)
 
