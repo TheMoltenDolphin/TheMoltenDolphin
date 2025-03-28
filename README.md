@@ -12,6 +12,7 @@
 # My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=PyLabs)](https://github.com/TheMoltenDolphin/PyLabs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=C-labs)](https://github.com/TheMoltenDolphin/C-Labs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=Chess_SFML)](https://github.com/TheMoltenDolphin/Chess_SFML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=CraneSimulator)](https://github.com/TheMoltenDolphin/CraneSimulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=Skol_Assistant)](https://github.com/TheMoltenDolphin/Skol_Assistant)
 
