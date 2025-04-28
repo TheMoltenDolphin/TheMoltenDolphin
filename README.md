@@ -7,7 +7,7 @@
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-310000?style=for-the-badge&logo=adobeillustrator&logoColor=f79500)](https://github.com/TheMoltenDolphin?tab=repositories&q=&type=&language=python&sort=)
 
 [![VARkit](https://img.shields.io/badge/My_team-VARkit-214d26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VARkit?tab=repositories&q=&type=&language=python&sort=)
-[![Telegram](https://img.shields.io/badge/Telegram-279dda?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheMoltenDolphin?tab=repositories&q=&type=&language=python&sort=)
+[![Telegram](https://img.shields.io/badge/Telegram-279dda?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WinSuuHim?tab=repositories&q=&type=&language=python&sort=)
 
 # My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMoltenDolphin&repo=PyLabs)](https://github.com/TheMoltenDolphin/PyLabs)
